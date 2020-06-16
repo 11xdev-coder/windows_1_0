@@ -1,1 +1,0 @@
-wqdqdSpooler.grid(row=13, column=0)0)
